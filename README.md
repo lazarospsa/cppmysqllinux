@@ -20,8 +20,9 @@ I suggest you to use XAMPP for database if you are begginer.
 
 (To run the application)
 
-user@user:~$ cd go_to_directiory/main
-user@user:~$ ./main
+user@user: cd go_to_directiory/main
+
+user@user: ./main
 
 Instructions:
 1) Build the main.cpp
@@ -36,7 +37,11 @@ With run application try:
 user@user:~$ sudo ./main
 
 With MySQL won't start from XAMPP
+
 -Open Terminal
+
 -type:
+
 sudo service mysql stop
+
 -and then try to start from XAMPP
