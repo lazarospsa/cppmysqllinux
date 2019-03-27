@@ -56,6 +56,6 @@ sudo service mysql stop
 
 Performance
 ```
-100 MySQL records -> exec on 0.03s
+100 MySQL records -> exec -> Time taken: 0.02717200s
 ```
 
