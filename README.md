@@ -1,5 +1,7 @@
 # cppmysqllinux
-C++ program that connect with mysql with add, edit, delete data. (for Linux)
+Database MySQL Connectivity using C++ (for Linux)
+![alt text](https://cdn-images-1.medium.com/max/1200/1*YU6BvZKvxivoEnvqxeG5rw.png)
+![alt text](https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png)
 
 (Maybe you have to install this)
 ```
