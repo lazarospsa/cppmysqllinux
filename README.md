@@ -1,7 +1,5 @@
 # cppmysqllinux
 Database MySQL Connectivity using C++ (for Linux)
-![C++](https://sdtimes.com/wp-content/uploads/2018/03/cpppp-490x490.png)
-![MySQL](https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png)
 
 (Maybe you have to install this)
 ```
