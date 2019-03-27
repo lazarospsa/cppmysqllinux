@@ -27,8 +27,8 @@ I suggest you to use XAMPP for database if you are begginer.
 
 (To run the application)
 ```
-user@user: cd go_to_directiory/main
-user@user: ./main
+user@user:~$ cd go_to_directiory/main
+user@user:~$ ./main
 ```
 
 Instructions:
@@ -53,3 +53,9 @@ With MySQL won't start from XAMPP
 sudo service mysql stop
 ```
 -and then try to start from XAMPP
+
+Performance
+```
+100 MySQL records -> exec on 0.03s
+```
+
